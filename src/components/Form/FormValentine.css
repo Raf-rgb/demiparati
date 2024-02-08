@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.btn-yes {
+    font-family: 'Roboto Slab', serif;
+    background-color: #ff69b4; /* Color rosa */
+    border-color: #ff69b4; /* Borde del mismo color */
+    color: #fff; /* Texto blanco */
+}
+
+.btn-no {
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    color: #fff; /* Texto blanco */
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1em;
+    color: #3d3d3d;
+} 
