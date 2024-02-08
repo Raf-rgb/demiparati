@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Raf-rgb.github.io/demiparati/dist",
+  "homepage": "https://Raf-rgb.github.io/demiparati",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
