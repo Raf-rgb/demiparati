@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 import LoadingScreen from './components/LoadingScreen/LoadingScreen'
 import FormValentine from './components/Form/FormValentine';
-//import './custom.scss';
 
 function App() {
   const [loadingProgress, setLoadingProgress] = useState(0);

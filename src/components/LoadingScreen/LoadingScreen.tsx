@@ -2,7 +2,6 @@ import { ProgressBar } from 'react-bootstrap';
 import Container from 'react-bootstrap/Container';
 import Stack from 'react-bootstrap/Stack';
 import './LoadingScreen.css';
-import { useEffect, useState } from 'react';
 
 const LoadingScreen = ({ progress }: { progress: number }) => {
   
