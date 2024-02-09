@@ -58,7 +58,7 @@ function FormValentine() {
               <h3>¡Sabía que dirías que si!</h3>
               
             </Row>
-            <Row className='mt-4'>
+            <Row className='justify-content-center m-4'>
               <p>Has tomado una muy buena decisión (creo),<br/>
               ahora solo falta que me des tu respuesta en la vida real. <br/> <br/>
 
