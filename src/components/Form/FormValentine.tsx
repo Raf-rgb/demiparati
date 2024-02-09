@@ -52,7 +52,7 @@ function FormValentine() {
         <>
           <div>
             <Row className='justify-content-center'>
-              <img src="/icon-couple.png" alt="" style={{width: "70%"}}/>
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4fTaPDOCa07GCh8B6bvU7zyjhM0ty4s76nMLNmWdi8RAOJkriAk8BwMkyT-rtkb5H6hzB9C1HDB8OrZ_hft8qsqBzdeQ6ktALsDtToITQKr7pis0gdWlR-XrGWE8G4nTXkBItwhXxDOenXElDruh7EOpi1Nx74O03qN4Sd3fS2YLTg_k0bGinFVSoNfri/s302/icon-couple.png" alt="" style={{width: "70%"}}/>
             </Row>
             <Row className='justify-content-center mt-4'>
               <h3>¡Sabía que dirías que si!</h3>
@@ -75,7 +75,7 @@ function FormValentine() {
           <>
             <Form>
               <Row className='justify-content-center'>
-                <img className="w-50" src="/icon-form.png" alt="" />
+                <img className="w-50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7m-C-VbmEMv7YZ4VIdmGUnc8lWg83vXZ_MGd9iDxlcQEjOKCOVBcYG1Z2hLaS8u1hL-achbnte7jjQP5l8_nC3imPaZiAxXzMcYQ1Zi7d2epoNHjm4LqLFwBGMfDzXUNjPr4hZm8rhdQZz-P3__AnW8IyLZg3GtYa_hrbSufn_3vPH8O85vuqKiU2kIrJ/s557/icon-form.png" alt="" />
               </Row>
               <Row className='mt-4 justify-content-center'>
                 <p>
